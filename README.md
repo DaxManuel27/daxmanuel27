@@ -1,12 +1,7 @@
 ## Hi I'm Dax Manuel 👋
 ## 🧠 About Me
-I'm a second-year Software Engineering student at UNB, passionate about software in the automotive + robotics industry
+I'm a third-year Software Engineering student at UNB, passionate about software in the automotive + robotics industry
 
-## 🚀 What I'm up to
-
-- 🤖 Exploring Machine Learning with **PyTorch**  
-- 🚗 Working on EV low-voltage systems for UNB Formula Electric
-- 🧠 Building projects I find cool
 
 
 
